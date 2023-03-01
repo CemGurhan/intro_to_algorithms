@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "insertion_sort",
+    # Add additional projects here
+]
