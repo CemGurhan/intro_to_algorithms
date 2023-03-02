@@ -17,3 +17,4 @@ fn insertion_sort(array: &mut [i32]) {
     println!("sorted array: {:?}", array);
 }
 
+
