@@ -1,6 +1,7 @@
 [workspace]
 members = [
     "insertion_sort",
-    "linear_search"
+    "linear_search",
+    "adding_n_bit_binary_integers"
     # Add additional projects here
 ]
