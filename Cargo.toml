@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "insertion_sort",
+    "linear_search"
     # Add additional projects here
 ]
